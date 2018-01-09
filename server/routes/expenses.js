@@ -16,7 +16,7 @@ router.put('/users/:id', (req, res) => {
       res.status(201).end()
     })
     .catch(() => {
-      res.staus(500).end()
+      res.status(500).end()
     })
 })
 
@@ -26,7 +26,7 @@ router.post('/users/:id', (req, res) => {
       res.status(201).end()
     })
     .catch(() => {
-      res.staus(500).end()
+      res.status(500).end()
     })
 })
 

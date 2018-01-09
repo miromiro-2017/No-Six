@@ -67,7 +67,7 @@ class Expenses extends React.Component {
           <div className="field">
             <label className="label">Expense</label>
             <div className="control">
-              <input className="input" type="text" placeholder="Food, rent, petrol etc..." onChange={this.handleChange} name="expense"/>
+              <input className="input" type="text" placeholder="Food, rent, petrol etc..." onChange={this.handleChange} name="expense" />
             </div>
             <br/>
             <label className="label">Amount</label>
