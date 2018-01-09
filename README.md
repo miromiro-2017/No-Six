@@ -1,5 +1,7 @@
 # NoSix - Contractors / Admin website
 
+Please visit the site at: https://nosix.herokuapp.com/home
+
 This website was prepared for the NoSix crew as a proof-of-concept as part of the Wellington 2017 PacHack event hosted at Enspiral Dev Academy's Cuba St campus.
 
 No-Six Ltd is an Auckland-based media creation company focussed on producing modern media content for clients, and at the same time helping the freelancers working with them to understand and reach their own business goals.
